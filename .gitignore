@@ -20,8 +20,8 @@ log/development.log
 *.sassc
 capybara-*.html
 .rspec
-config/database.yml
-config/*.yml
+#config/database.yml
+#config/*.yml
 db/schema.rb
 vendor/bundle
 public/system/*
